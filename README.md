@@ -6,4 +6,4 @@ Prof. Dr. Dennis Klinkhammer
 
 # Voraussetzungen
 Folgende Packages sollten in R installiert sein:<br>
-ugraph; shiny
+igraph; shiny
